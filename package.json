@@ -8,5 +8,8 @@
   },
   "scripts": {
     "test": "./node_modules/jshint/bin/jshint hello.js"
+  },
+  "dependencies": {
+    "env2": "^2.2.0"
   }
 }
